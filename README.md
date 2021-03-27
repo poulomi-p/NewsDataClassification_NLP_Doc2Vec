@@ -1,4 +1,4 @@
-# Multiclass Text Classification: News artile data
+# Multiclass Text Classification: News article data
 
 This NLP project is a supervised learning problem where we try to predict the category of a news article. Since each article belongs to exactly one of the 5 categories used here, it is a multiclass classification problem.
 ## Data Collection
