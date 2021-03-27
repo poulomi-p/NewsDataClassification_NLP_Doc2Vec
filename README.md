@@ -27,4 +27,4 @@ This NLP project is a supervised learning problem where we try to predict the ca
 1. Using the cleaned text csv file, converting training and testing data into the Gensim format
 2. Initializing the Doc2Vec model and training it for a few epochs
 3. Getting the vector representations of the train and test sets
-4. Finally, using Logistic regression model again with the new train and test vectors and achieving an increase of 1% in accuracy 
+4. Finally, using Logistic regression model again with the new train and test vectors and achieving an increase of 1% in accuracy (95%)
